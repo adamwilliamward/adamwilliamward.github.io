@@ -1,2 +1,2 @@
-# adamwilliamward.github.io
+# adamwilliamward
 Adam Ward Website
